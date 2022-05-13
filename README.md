@@ -105,12 +105,12 @@ docker-compose exec web python manage.py create_admin
 }
 ```
 ## Comments
-1- Generly the idea of the project can be done using Flask or Fast api will be way better than Django
-2- Django is abit bad way to estimate the quality of the developer compared to Flask ,
+- Generly the idea of the project can be done using Flask or Fast api will be way better than Django
+- Django is abit bad way to estimate the quality of the developer compared to Flask ,
 as Flask has more degree of freedom
-3- alot of things can be added to this task to be more satisfying for the developer , especially more complecated case or data
-4- In this task its so hard to write a test case for something truly straight forward like this
-5- About the idea itself , alot of enhancement can be done to make it way better challenge
+- alot of things can be added to this task to be more satisfying for the developer , especially more complecated case or data
+- In this task its so hard to write a test case for something truly straight forward like this
+- About the idea itself , alot of enhancement can be done to make it way better challenge
 
 ## Questions
 #### 1- *Describe briefly the matching and reconciling method chosen*
